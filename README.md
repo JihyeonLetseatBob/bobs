@@ -1,5 +1,5 @@
 # bobs
-![image](https://user-images.githubusercontent.com/112620303/190116243-41ffafb1-0f23-4de4-b561-f19d1bf33c2a.png)
+![image](https://user-images.githubusercontent.com/112620303/190142051-bda8a01a-2e45-49d7-a3e0-76cad5be5577.png)
 # 개발 동기/목적
 기존의 코딩사이트가 있지만
 코딩을 처음 접하는 사람들은 사이트의 디자인 때문에 
