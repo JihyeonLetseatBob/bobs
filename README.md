@@ -9,7 +9,7 @@
 - 전지현 (wjswlguswjswlgus616@naver.com), 팀장
 - 김도은 (tyuighj15598@naver.com) , 팀원
 - 이영선 (e0sunee882@gmail.com) , 팀원
-- 권다영 (dayoung-3852@naver.com)<br> , 팀원
+- 권다영 (dayoung-3852@naver.com) , 팀원
  ### 깃허브
 
  # 사용기술
