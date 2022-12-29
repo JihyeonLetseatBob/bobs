@@ -7,7 +7,7 @@
 # 팀소개
 - 전지현 (wjswlguswjswlgus616@naver.com), 
 - 김도은 (tyuighj15598@naver.com)
-- 이영선 
+- 이영선 (e0sunee882@gmail.com)
 - 권다영 (dayoung-3852@naver.com)<br>
  ### 깃허브
  
@@ -26,7 +26,11 @@
  포인트컬러 지정, UI/UX디자인, 중간발표
  - 12월<br>
  산업기사 준비, 기말고사 준비, 최종발표
+  # 사용자 수행 흐름도
   
+  # 프로젝트 추진 결과
+  
+  # 결과 및 발표 자료
  
  
 
