@@ -31,10 +31,7 @@
 
   # 결과 및 발표 자료
   - 결과
-
-
-https://user-images.githubusercontent.com/112620303/209928063-a875f323-a708-40f3-8ed8-7a7f140e0a1b.mp4
-
+https://user-images.githubusercontent.com/112620303/209929080-dab68b3e-29c4-4ab6-b2af-761c134e9e67.mp4
 
   - 중간발표 자료<br>
   [캡스톤 중간발표자료 (1).pptx](https://github.com/JihyeonLetseatBob/bobs/files/10318494/1.pptx)
