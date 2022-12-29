@@ -10,4 +10,11 @@
 - 이영선 
 - 권다영 (dayoung-3852@naver.com)
  ### 깃허브
+ # 사용기술
+ - 어도비
+ - ppt
+ - html
+ - css
+ - js
+ 
 
