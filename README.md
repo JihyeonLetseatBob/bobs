@@ -30,7 +30,7 @@
  산업기사 준비, 기말고사 준비, 최종발표
 
   # 결과 및 발표 자료
-  - 결과
+  - 결과<br>
 https://user-images.githubusercontent.com/112620303/209929080-dab68b3e-29c4-4ab6-b2af-761c134e9e67.mp4
 
   - 중간발표 자료<br>
