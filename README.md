@@ -11,6 +11,7 @@
 - 이영선 (e0sunee882@gmail.com) , 팀원
 - 권다영 (dayoung-3852@naver.com) , 팀원
  ### 깃허브
+https://github.com/JihyeonLetseatBob/bobs.git
 
  # 사용기술
  - 어도비
