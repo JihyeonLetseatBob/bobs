@@ -6,10 +6,10 @@
 - 유니크한 디자인의 코딩사이트를 제작하고 코딩사이트에 대한 거부감을 줄이고 싶음.
 - 
 # 팀소개
-- 전지현 (wjswlguswjswlgus616@naver.com), 
-- 김도은 (tyuighj15598@naver.com)
-- 이영선 (e0sunee882@gmail.com)
-- 권다영 (dayoung-3852@naver.com)<br>
+- 전지현 (wjswlguswjswlgus616@naver.com), 팀장
+- 김도은 (tyuighj15598@naver.com) , 팀원
+- 이영선 (e0sunee882@gmail.com) , 팀원
+- 권다영 (dayoung-3852@naver.com)<br> , 팀원
  ### 깃허브
 
  # 사용기술
