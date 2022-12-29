@@ -29,11 +29,9 @@
  - 12월<br>
  산업기사 준비, 기말고사 준비, 최종발표
  
-  # 사용자 수행 흐름도
-  
-  # 프로젝트 추진 결과
-  
   # 결과 및 발표 자료
- 
- 
+  - 중간발표 자료
+  [캡스톤 중간발표자료 (1).pptx](https://github.com/JihyeonLetseatBob/bobs/files/10318494/1.pptx)
 
+ - 최종 발표 자료
+[캡스톤 최종.pptx](https://github.com/JihyeonLetseatBob/bobs/files/10318488/default.pptx)
